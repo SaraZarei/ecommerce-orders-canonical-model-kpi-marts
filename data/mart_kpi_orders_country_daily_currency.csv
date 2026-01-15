@@ -1,0 +1,13 @@
+order_date,source_system,shipping_country_canon,currency_canon,orders_total,customers_total,orders_revenue_eligible,revenue,aov
+2025-12-04,shopify,DE,EUR,1,1,1,49.9,49.9
+2025-12-04,amazon,DE,EUR,1,0,1,29.9,29.9
+2025-12-03,amazon,DE,EUR,1,1,1,1234.5,1234.5
+2025-12-03,shopify,DE,EUR,1,1,0,0,
+2025-12-06,amazon,DE,EUR,1,1,0,0,
+2025-12-01,amazon,DE,EUR,1,1,1,89.9,89.9
+2025-12-01,shopify,DE,EUR,1,1,1,69,69
+2025-12-06,shopify,DE,EUR,1,1,0,0,
+2025-12-02,amazon,NL,EUR,1,1,1,49.9,49.9
+2025-12-02,shopify,NL,EUR,1,1,1,39.9,39.9
+2025-12-05,amazon,CH,EUR,1,0,1,59.9,59.9
+2025-12-05,shopify,CH,CHF,1,1,1,75,75

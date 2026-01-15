@@ -1,0 +1,13 @@
+order_date,source_system,order_status_canon,orders,customers,revenue_eligible_only
+2025-12-01,amazon,SHIPPED,1,1,89.9
+2025-12-01,shopify,PAID,1,1,69
+2025-12-06,shopify,PAID,1,1,0
+2025-12-03,shopify,REFUNDED,1,1,0
+2025-12-03,amazon,SHIPPED,1,1,1234.5
+2025-12-04,amazon,SHIPPED,1,0,29.9
+2025-12-04,shopify,PAID,1,1,49.9
+2025-12-06,amazon,CANCELLED,1,1,0
+2025-12-02,shopify,PENDING,1,1,39.9
+2025-12-02,amazon,PENDING,1,1,49.9
+2025-12-05,amazon,UNSHIPPED,1,0,59.9
+2025-12-05,shopify,PAID,1,1,75

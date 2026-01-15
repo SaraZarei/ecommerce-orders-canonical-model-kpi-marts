@@ -1,0 +1,13 @@
+order_date,source_system,currency_canon,rows_in_fact,orders_total,customers_total,orders_revenue_eligible,revenue,aov,cancelled_orders,refunded_or_returned_orders,dq_issue_rate
+2025-12-04,amazon,EUR,1,1,0,1,29.9,29.9,0,0,0.0
+2025-12-04,shopify,EUR,1,1,1,1,49.9,49.9,0,0,0.0
+2025-12-06,shopify,EUR,1,1,1,0,0,,0,0,0.0
+2025-12-03,shopify,EUR,1,1,1,0,0,,0,1,0.0
+2025-12-03,amazon,EUR,1,1,1,1,1234.5,1234.5,0,0,0.0
+2025-12-05,shopify,CHF,1,1,1,1,75,75,0,0,0.0
+2025-12-05,amazon,EUR,1,1,0,1,59.9,59.9,0,0,0.0
+2025-12-06,amazon,EUR,1,1,1,0,0,,1,0,1.0
+2025-12-02,amazon,EUR,1,1,1,1,49.9,49.9,0,0,0.0
+2025-12-02,shopify,EUR,1,1,1,1,39.9,39.9,0,0,0.0
+2025-12-01,amazon,EUR,1,1,1,1,89.9,89.9,0,0,0.0
+2025-12-01,shopify,EUR,1,1,1,1,69,69,0,0,0.0

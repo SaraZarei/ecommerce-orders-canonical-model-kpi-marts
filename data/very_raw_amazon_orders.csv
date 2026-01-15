@@ -1,0 +1,8 @@
+ingested_at,source_file,report_date,amazon_order_id,purchase_date,last_updated_date,order_status,fulfillment_channel,order_total,currency,ship_country,buyer_id
+2025-12-06 11:06:00.000000 UTC,s3://amazon/reports/orders/2025-12-06.tsv,2025-12-06,A-3006,2025-12-06 11:00:00.000000 UTC,,Canceled,MFN,-10.0,EUR,DE,am_c_06
+2025-12-02 10:05:00.000000 UTC,s3://amazon/reports/orders/2025-12-02.tsv,2025-12-02,A-3002,2025-12-02 10:00:00.000000 UTC,,Pending,MFN,49.9,EUR,NL,am_c_02
+2025-12-02 11:10:00.000000 UTC,s3://amazon/reports/orders/2025-12-02.tsv,2025-12-02,A-3001,2025-12-01 11:00:00.000000 UTC,2025-12-02 10:00:00.000000 UTC,Shipped,AFN,89.9,EUR,DE,am_c_01
+2025-12-03 11:12:00.000000 UTC,s3://amazon/reports/orders/2025-12-03.tsv,2025-12-03,A-3001,2025-12-01 11:00:00.000000 UTC,2025-12-03 10:00:00.000000 UTC,Shipped,AFN,89.9,EUR,DE,am_c_01
+2025-12-04 11:08:00.000000 UTC,s3://amazon/reports/orders/2025-12-04.tsv,2025-12-04,A-3003,2025-12-03 11:00:00.000000 UTC,2025-12-04 09:00:00.000000 UTC,Shipped,AFN,1234.5,EUR,DE,am_c_03
+2025-12-05 09:10:00.000000 UTC,s3://amazon/reports/orders/2025-12-05.tsv,2025-12-05,A-3004,2025-12-04 11:00:00.000000 UTC,2025-12-05 09:00:00.000000 UTC,Shipped,AFN,29.9,EUR,DE,
+2025-12-05 11:05:00.000000 UTC,s3://amazon/reports/orders/2025-12-05.tsv,2025-12-05,A-3005,2025-12-05 11:00:00.000000 UTC,,Unshipped,AFN,59.9,EUR,CH,

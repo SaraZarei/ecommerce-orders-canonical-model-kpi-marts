@@ -1,0 +1,6 @@
+ingest_date,source_system,rows_loaded,orders_loaded,avg_lag_days,max_lag_days,late_orders_gt_2d,late_rate_gt_2d
+2025-12-02,amazon,1,1,0.0,0,0,0.0
+2025-12-06,amazon,1,1,0.0,0,0,0.0
+2025-12-03,amazon,1,1,2.0,2,0,0.0
+2025-12-04,amazon,1,1,1.0,1,0,0.0
+2025-12-05,amazon,2,2,0.5,1,0,0.0

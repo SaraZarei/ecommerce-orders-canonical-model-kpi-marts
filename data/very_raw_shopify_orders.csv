@@ -1,0 +1,7 @@
+id,created_at,processed_at,financial_status,fulfillment_status,currency,total_price,subtotal_price,total_discounts,total_tax,shipping_country,customer_id,email,tags,test
+S-2002,2025-12-02 16:00:00.000000 UTC,,pending,,EUR,39.9,39.9,0.0,6.37,NL,sh_c_02,pending@example.com,,false
+S-2004,2025-12-04 12:00:00.000000 UTC,2025-12-04 12:02:00.000000 UTC,paid,cancelled,EUR,49.9,49.9,0.0,7.97,DE,sh_c_04,conflict@example.com,,false
+S-2001,2025-12-01 09:20:00.000000 UTC,2025-12-01 09:21:00.000000 UTC,paid,fulfilled,EUR,69.0,59.9,0.0,9.1,DE,sh_c_01,maria@example.com,,false
+S-2005,2025-12-05 12:00:00.000000 UTC,2025-12-05 12:01:00.000000 UTC,paid,fulfilled,CHF,75.0,70.0,0.0,5.0,CH,sh_c_05,ch@example.com,,false
+S-TEST-1,2025-12-06 09:00:00.000000 UTC,2025-12-06 09:01:00.000000 UTC,paid,fulfilled,EUR,1.0,1.0,0.0,0.0,DE,sh_test,test+shopify@glow25.com,test,true
+S-2003,2025-12-03 07:10:00.000000 UTC,2025-12-03 07:12:00.000000 UTC,refunded,fulfilled,EUR,120.0,110.0,0.0,,DE,sh_c_03,refund@example.com,vip,false

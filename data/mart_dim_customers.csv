@@ -1,0 +1,11 @@
+global_customer_id,source_system,any_email,first_order_date_any,last_order_date_any,first_order_date_revenue_eligible,last_order_date_revenue_eligible,lifetime_orders_revenue_eligible,lifetime_revenue,primary_currency,num_currencies_used,is_multi_currency_customer,days_since_last_order_any
+shopify:sh_test,shopify,test+shopify@glow25.com,2025-12-06,2025-12-06,,,0,0,,0,false,25
+amazon:am_c_06,amazon,,2025-12-06,2025-12-06,,,0,0,,0,false,25
+shopify:sh_c_03,shopify,refund@example.com,2025-12-03,2025-12-03,,,0,0,,0,false,28
+shopify:sh_c_01,shopify,maria@example.com,2025-12-01,2025-12-01,2025-12-01,2025-12-01,1,69,EUR,1,false,30
+amazon:am_c_01,amazon,,2025-12-01,2025-12-01,2025-12-01,2025-12-01,1,89.9,EUR,1,false,30
+shopify:sh_c_02,shopify,pending@example.com,2025-12-02,2025-12-02,2025-12-02,2025-12-02,1,39.9,EUR,1,false,29
+amazon:am_c_02,amazon,,2025-12-02,2025-12-02,2025-12-02,2025-12-02,1,49.9,EUR,1,false,29
+amazon:am_c_03,amazon,,2025-12-03,2025-12-03,2025-12-03,2025-12-03,1,1234.5,EUR,1,false,28
+shopify:sh_c_04,shopify,conflict@example.com,2025-12-04,2025-12-04,2025-12-04,2025-12-04,1,49.9,EUR,1,false,27
+shopify:sh_c_05,shopify,ch@example.com,2025-12-05,2025-12-05,2025-12-05,2025-12-05,1,75,CHF,1,false,26
